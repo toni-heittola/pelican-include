@@ -45,6 +45,13 @@ def parse_tags(instance):
 
                     map[match.group()] = file_content
 
+                else:
+                    map[match.group()] = ''
+                    logger.warn(
+                        '`pelican-include` file [{filename}] was not found'.format(
+                            filename=filename
+                        ))
+
             for map_item in map:
                 content = content.replace(map_item, map[map_item])
 
