@@ -5,7 +5,7 @@ Pelican-include - Fetching file content
 
 **Author**
 
-Toni Heittola (toni.heittola@gmail.com), [GitHub](https://github.com/toni-heittola), [Home page](http://www.cs.tut.fi/~heittolt/)
+Toni Heittola (toni.heittola@gmail.com), [GitHub](https://github.com/toni-heittola), [Home page](https://homepages.tuni.fi/toni.heittola/)
 
 Installation instructions
 =========================
